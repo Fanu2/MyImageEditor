@@ -1,5 +1,4 @@
-# [My Image Editor]([(https://fanu2.github.io/MyImageEditor))
-
+# [My Image Editor] (https://fanu2.github.io/MyImageEditor)
 ### A sleek and responsive web application that lets you effortlessly edit and download images with five exciting features:
 
 - **Chroma Key Effect** — seamlessly blend colors and create stunning composites.  
